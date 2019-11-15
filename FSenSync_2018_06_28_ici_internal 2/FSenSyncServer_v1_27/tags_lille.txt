@@ -1,0 +1,59 @@
+ACC,person 1,left arm
+ACC,person 2,left arm
+ACC,person 3,left arm
+ACC,person 4,left arm
+ACC,person 5,left arm
+ACC,person 6,left arm
+ACC,person 7,left arm
+ACC,exp1,left arm
+ACC,exp2,left arm
+ACC,person 1,right arm
+ACC,person 2,right arm
+ACC,person 3,right arm
+ACC,person 4,right arm
+ACC,person 5,right arm
+ACC,person 6,right arm
+ACC,person 7,right arm
+ACC,exp1,right arm
+ACC,exp2,right arm
+ACC,person 1,chest
+ACC,person 2,chest
+ACC,person 3,chest
+ACC,person 4,chest
+ACC,person 5,chest
+ACC,person 6,chest
+ACC,person 7,chest
+ACC,exp1,chest
+ACC,exp2,chest
+ACC,person 1,left ankle
+ACC,person 2,left ankle
+ACC,person 3,left ankle
+ACC,person 4,left ankle
+ACC,person 5,left ankle
+ACC,person 6,left ankle
+ACC,person 7,left ankle
+ACC,exp1,left ankle
+ACC,exp2,left ankle
+ACC,person 1,right ankle
+ACC,person 2,right ankle
+ACC,person 3,right ankle
+ACC,person 4,right ankle
+ACC,person 5,right ankle
+ACC,person 6,right ankle
+ACC,person 7,right ankle
+ACC,exp1,right ankle
+ACC,exp2,right ankle
+
+STI, person 1, tapping
+STI, person 2, tapping
+STI, person 3, tapping
+STI, person 4, tapping
+STI, person 5, tapping
+STI, person 6, tapping
+STI, person 7, tapping
+STI, extra, tapping
+
+VID,camera A
+VID,camera B
+VID,camera C
+

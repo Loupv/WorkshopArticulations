@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0F61F0D8-CE6E-159E-D769-67768A7981EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OSC/SensorsOSC.cs">
+    <Files>
+      <File FileName="Assets/MyNewScript.cs" Line="16" Column="69" />
+      <File FileName="Assets/OSC/OSC.cs" Line="423" Column="29" />
+      <File FileName="Assets/OSC/SensorsOSC.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Workshop2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="OSC" expanded="True">
+                <Node name="OSC.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4ab7a877-df66-4b11-9f41-8f89384a1414" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,3 @@
+/Users/loupvuarnesson/Downloads
+1.2
+/Users/loupvuarnesson/anaconda3/bin

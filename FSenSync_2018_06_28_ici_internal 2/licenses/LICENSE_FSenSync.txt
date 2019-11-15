@@ -1,0 +1,33 @@
+List of software:
+
+FSenSync Server
+BigClock
+FSenSyncAcc
+FSenSyncBio
+FSenSyncCartography
+FSenSyncEda
+FSenSyncInstaller
+FSenSyncStimuli
+FSenSyncVideo
+FSenSyncVPro
+
+by Förger Analytics
+
+Copyright 2018, Klaus Förger, klaus@forger.fi
+
+You are granted the right to use the listed software
+for both commercial and non-commercial purposes,
+and distribute it as a compiled binary.
+
+See the licenses and copyrights of used libraries
+in separate LICENSE and NOTICE files.
+
+Unless agreed otherwise in a separate contract or an accepted quote:
+
+THERE IS NO WARRANTY FOR THE PROGRAMS, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW. THE PROGRAMS ARE PROVIDED "AS IS" WITHOUT WARRANTY
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE
+OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU
+ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.

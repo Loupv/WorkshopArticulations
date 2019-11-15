@@ -1,0 +1,10 @@
+BackgroundImage,OverlapAllowed,SelfEnded,MultiTouch,TrialDuration,BreakBeforeTrial,ImgScale,Img0,Img1,...
+background_1.jpg,false,true,true,10000,1000,0.05,pic1.png,pic2.png
+background_1.jpg,false,true,false,10000,1000,0.05,img1.jpg,img2.jpg
+background_2.jpg,true,true,false,10000,1000,0.05,img1.jpg,img2.jpg,img3.jpg,img4.jpg
+background_2.jpg,true,false,false,10000,1000,0.05,img1.jpg,img2.jpg,img3.jpg,img4.jpg
+
+
+
+
+

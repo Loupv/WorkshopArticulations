@@ -1,0 +1,2 @@
+Stimulus file list:
+a.wav, b.jpg

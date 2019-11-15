@@ -1,0 +1,12 @@
+Video annotation settings:
+Background image: b.jpg
+Touch trace setting: 1
+Video area multiplier: 1.5
+Show annotation times: true
+Seeking video allowed: true
+Required tag 1: group A
+Video: annotation_demo4_002_annotation_group-A_1528967627399.mp4
+Annotation time: 00:01:00 - 00:02:00
+Required tag 1: group B
+Video: annotation_demo4_002_annotation_group-B_1528967627561.mp4
+Annotation time: 00:02:00 - 00:03:00

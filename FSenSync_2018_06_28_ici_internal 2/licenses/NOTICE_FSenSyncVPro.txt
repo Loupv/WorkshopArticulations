@@ -1,0 +1,20 @@
+This product includes software developed at
+Förger Analytics (http://www.forger.fi/) (Copyright 2018)
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+Apache Commons Math
+Copyright 2001-2016 The Apache Software Foundation
+(Licensed under the Apache License, Version 2.0)
+
+Apache Commons Math includes software developed for Orekit by
+CS Systèmes d'Information (http://www.c-s.fr/)
+Copyright 2010-2012 CS Systèmes d'Information
+(Licensed under the Apache License, Version 2.0)
+
+This product includes software developed by
+myBrain Technologies  (http://www.mybraintech.com/) (Copyright 2017)
+
+This product includes software developed by
+Chandrasekhar Ramakrishnan / Illposed Software (Copyright (c) 2002-2014)
+(Licensed under the 3-Clause BSD License)

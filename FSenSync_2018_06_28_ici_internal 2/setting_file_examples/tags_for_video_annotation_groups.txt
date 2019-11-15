@@ -1,0 +1,7 @@
+VID,group A,cam1
+VID,group A,cam2
+VID,group B,cam1
+VID,group B,cam2
+VANNO,group A,P101
+VANNO,group A,P102
+VANNO,group B,P103

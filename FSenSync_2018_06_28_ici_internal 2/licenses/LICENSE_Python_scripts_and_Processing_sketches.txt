@@ -1,0 +1,13 @@
+List of software:
+
+Python scripts in folder ./FSenSyncServer_*/scripts
+Sketches in folder ./sketchbook
+
+by Förger Analytics
+
+Copyright 2018, Klaus Förger, klaus@forger.fi
+
+You are granted the right to use and modify the listed software
+for all uses (both commercial and non-commercial),
+and distribute it as a compiled binary or as source code
+with or without modifications.

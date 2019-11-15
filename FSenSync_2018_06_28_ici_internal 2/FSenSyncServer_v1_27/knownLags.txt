@@ -1,0 +1,8 @@
+alps_hct6580_weg_w_l,ACC,120
+alps_U18,ACC,120
+alps_X01S,ACC,0
+LGE_LG-K120,ACC,0
+LGE_LG-M200,ACC,0
+samsung_GT-N8000,ACC,10
+samsung_SM-G389F,ACC,50
+samsung_SM-G930F,ACC,0

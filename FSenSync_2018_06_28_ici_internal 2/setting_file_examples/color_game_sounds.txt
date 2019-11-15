@@ -1,0 +1,15 @@
+Color game settings:
+Touch window: 100
+Ignore duration: 300
+Timeout: 2000
+image,0,color_game_0.png
+image,1,color_game_1.png
+image,2,color_game_2.png
+image,3,color_game_3.png
+image,4,color_game_4.png
+image,5,color_game_5.png
+image,6,color_game_6.png
+sound,1,C.mp3
+sound,2,D.mp3
+sound,3,E.mp3
+sound,4,G.mp3

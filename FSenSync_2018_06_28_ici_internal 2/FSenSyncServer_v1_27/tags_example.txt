@@ -1,0 +1,47 @@
+ACC,person 1,left arm
+ACC,person 2,left arm
+ACC,person 3,left arm
+ACC,person 4,left arm
+ACC,person 5,left arm
+ACC,person 6,left arm
+ACC,person 7,left arm
+ACC,person 8,left arm
+ACC,person 9,left arm
+ACC,person 10,left arm
+ACC,person 11,left arm
+ACC,person 12,left arm
+ACC,matthieu,left arm
+
+
+ACC,person 1,right arm
+ACC,person 2,right arm
+ACC,person 3,right arm
+ACC,person 4,right arm
+ACC,person 5,right arm
+ACC,person 6,right arm
+ACC,person 7,right arm
+ACC,person 8,right arm
+ACC,person 9,right arm
+ACC,person 10,right arm
+ACC,person 11,right arm
+ACC,person 12,right arm
+ACC,matthieu,right arm
+
+ACC,person 1,chest
+ACC,person 2,chest
+ACC,person 3,chest
+ACC,person 4,chest
+ACC,person 5,chest
+ACC,person 6,chest
+ACC,person 7,chest
+ACC,person 8,chest
+ACC,person 9,chest
+ACC,person 10,chest
+ACC,person 11,chest
+ACC,person 12,chest
+ACC,matthieu,chest
+
+VID,camera A
+VID,camera B
+VID,camera C
+

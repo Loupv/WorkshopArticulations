@@ -1,0 +1,7 @@
+ACC,person 1,left arm
+ACC,person 2,left arm
+STI/ACC,person 1,rating device
+STI/ACC,person 2,rating device
+STI,other stimulus device
+VID,camera A
+VID,camera B
